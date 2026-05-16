@@ -93,34 +93,6 @@ From Minecraft server plugins → game servers → web → systems programming.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sweezy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweezy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sweezy&theme=terminal&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9&stroke=00FF41)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sweezy-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Sweezy)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&text=&fontSize=0" />
