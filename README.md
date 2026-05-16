@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-███████╗██╗    ██╗███████╗███████╗███████╗██╗   ██╗
-██╔════╝██║    ██║██╔════╝██╔════╝╚════██║╚██╗ ██╔╝
-███████╗██║ █╗ ██║█████╗  █████╗      ██╔╝ ╚████╔╝ 
-╚════██║██║███╗██║██╔══╝  ██╔══╝     ██╔╝   ╚██╔╝  
-███████║╚███╔███╔╝███████╗███████╗   ██║     ██║   
-╚══════╝ ╚══╝╚══╝ ╚══════╝╚══════╝   ╚═╝     ╚═╝   
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Hey%2C+ich+bin+Max+%E2%80%94+aka+Sweezy+%F0%9F%8E%AE;8%2B+Jahre+Coding-Erfahrung;Von+Minecraft+Plugins+zur+echten+Welt;%3C%2F%3E+Code+ist+meine+Sprache" alt="Typing SVG" />
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sweezy.Sweezy&color=00FF41)](https://github.com/Sweezy)
